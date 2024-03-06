@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/health-project/",
+    "build": "vite build --base=/104_html-css_dr-jeky11/",
     "preview": "vite preview"
   },
   "devDependencies": {
